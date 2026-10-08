@@ -15,10 +15,10 @@ Twelve short chapters, about fifty minutes, with narration, music and things to 
 7. Talking to AI
 8. Inside the Black Box
 9. Is It Alive?
-10. The Benefits, Honestly
-11. The Risks, Plainly
+10. The Risks, Plainly
+11. The Benefits, Honestly
 12. What's Next
 
 Every number in the lesson is sourced. Tap **Sources** inside the lesson to see where each one comes from. Facts are current as of October 2026.
 
-Built with Claude. Narration voice: ElevenLabs. Music: Google Lyria.
+Built with Claude Opus 5.5 (Anthropic). Narration voice: “Sarah” from ElevenLabs. Music: Google Lyria.
